@@ -66,7 +66,7 @@ This free and open-source tool analyzes your resume and provides an ATS score, a
 
 ## Example Usage
 
-```python
+
 # Example LinkedIn Job URL not the Job Board URL 
 ![Should be link from this page](https://github.com/Brainstorm2605/Resume_Checker/blob/main/Screenshot%202024-05-18%20203518.png)
-![bot from this page](https://github.com/Brainstorm2605/Resume_Checker/blob/main/Screenshot%202024-05-18%20203552.png)
+![not from this page](https://github.com/Brainstorm2605/Resume_Checker/blob/main/Screenshot%202024-05-18%20203552.png)
