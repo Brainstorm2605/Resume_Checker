@@ -151,7 +151,7 @@ def evaluate_resume(resume_path, job_description, job_description_file, jd_link)
         total_score = keyword_score + cosine_sim_score
         total_score = min(total_score, 100)
 
-        llm_feedback = "vhvh"
+        llm_feedback = get_llm_feedback(resume,job_description)
         return total_score, f"ATS Score: {total_score:.2f}%\n\nLLM Feedback:\n{llm_feedback}"
 
     else:
