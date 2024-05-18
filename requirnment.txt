@@ -1,0 +1,10 @@
+nltk
+docx2txt
+scikit-learn
+PyPDF2
+gradio
+textblob
+langchain
+pathvalidate
+xhtml2pdf
+bs4
