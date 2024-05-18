@@ -68,4 +68,5 @@ This free and open-source tool analyzes your resume and provides an ATS score, a
 
 ```python
 # Example LinkedIn Job URL not the Job Board URL 
-linkedin_url = "https://www.linkedin.com/jobs/view/your-job-id/"
+![Should be link from this page](Screenshot 2024-05-18 203518.png)
+![bot from this page](Screenshot 2024-05-18 203552.png)
