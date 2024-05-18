@@ -67,6 +67,6 @@ This free and open-source tool analyzes your resume and provides an ATS score, a
 ## Example Usage
 
 
-# Example LinkedIn Job URL not the Job Board URL 
+# For direct JD comparison from LinkedIn, it should be from LinkedIn Job URL not from the Job Board URL 
 ![Should be link from this page](https://github.com/Brainstorm2605/Resume_Checker/blob/main/Screenshot%202024-05-18%20203518.png)
 ![not from this page](https://github.com/Brainstorm2605/Resume_Checker/blob/main/Screenshot%202024-05-18%20203552.png)
