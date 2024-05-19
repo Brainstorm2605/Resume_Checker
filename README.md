@@ -2,7 +2,7 @@
 
 **Boost your resume's chances of passing through Applicant Tracking Systems (ATS)!**
 
-This free and open-source tool analyzes your resume and provides an ATS score, along with detailed feedback powered by a Large Language Model (LLM).
+This free and open-source tool analyzes your resume and provides an ATS score, along with detailed feedback powered by a Large Language Model (LLM) and framework like NLTK, langchain, Ollama .
 
 ## Key Features
 
